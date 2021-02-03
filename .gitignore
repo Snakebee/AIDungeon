@@ -11,3 +11,4 @@ saved_stories/
 install-dependencies.bat
 play.bat
 generator/gpt2/models
+saved_stories/
